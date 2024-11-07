@@ -27,6 +27,6 @@
 
 5. Continue Entering Expressions: After evaluating an expression, you will be prompted to enter another one.
 
-Note: others code or resources used are referenced.
+Note: other's code or resources used are referenced.
 
 Video Link - https://youtu.be/Z7K53YTTmuo
