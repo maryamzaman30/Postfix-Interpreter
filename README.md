@@ -29,4 +29,4 @@
 
 Note: other's code or resources used are referenced.
 
-Video Link - https://youtu.be/Z7K53YTTmuo
+To see how this project works, refer to the Video Link - https://youtu.be/Z7K53YTTmuo
